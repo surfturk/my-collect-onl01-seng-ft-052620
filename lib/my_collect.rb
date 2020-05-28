@@ -1,5 +1,6 @@
 def my_collect(Array)
-  index 
+  index = o
+  while index < array.length
   
 end  
 
