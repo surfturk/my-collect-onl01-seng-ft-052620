@@ -7,7 +7,7 @@ def my_collect(array)
   
    index += 1
  end  
-
+end
 modified_array
 
 end
