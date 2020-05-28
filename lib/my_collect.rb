@@ -5,5 +5,7 @@ def my_collect(array)
   yield (array[index])
   
   index += 1
-end  
+ end  
+
+
 end
